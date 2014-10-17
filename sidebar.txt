@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mrc:home|Door43 (mrc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mrc|d43-mrc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mrc/archive/master.zip|d43-mrc.zip]]
+
+**Recent Changes**
+{{changes>ns = mrc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mrc|Ethnologue data]]
+
